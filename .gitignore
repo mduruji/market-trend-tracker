@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+
+# Local analytical database
+market_data.duckdb
+market_data.duckdb.wal
+
+# OS metadata
+.DS_Store
+Thumbs.db
